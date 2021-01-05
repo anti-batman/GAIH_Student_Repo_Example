@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# GlobalAIHubMLCourse
 ![](img/logo.png)
 
 **Course Date:**
